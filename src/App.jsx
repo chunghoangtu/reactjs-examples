@@ -7,7 +7,7 @@ function App() {
     <>
       <div>
         <h1>Day 3: Practicing Git Resolving conflicts!</h1>
-        <p>Branch: mains</p>
+        <p>Branch: main text</p>
       </div>
     </>
   )
