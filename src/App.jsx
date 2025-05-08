@@ -6,8 +6,8 @@ function App() {
   return (
     <>
       <div>
-        <h1>Day 2: Practicing Git Branches!</h1>
-        <p>This is part of my 30-day GitHub challenge.</p>
+        <h1>Day 3: Practicing Git Resolving conflicts!</h1>
+        <p>Branch: mains</p>
       </div>
     </>
   )
