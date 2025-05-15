@@ -1,1 +1,1 @@
-This is from Feature A
+This content combines both Feature A and B.
